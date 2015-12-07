@@ -24,7 +24,7 @@ describe('svg', function () {
 
   describe('measure', function () {
 
-    var fixtures = path.resolve(__dirname, '../test/fixtures/svg');
+    var fixtures = path.resolve(__dirname, 'fixtures/svg');
     var files = fs.readdirSync(fixtures);
 
     files.forEach(function (file) {

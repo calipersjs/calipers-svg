@@ -1,6 +1,6 @@
 #calipers-svg
 
-[![npm version](https://badge.fury.io/js/calipers-svg.svg)](http://badge.fury.io/js/calipers-svg) [![Build Status](https://travis-ci.org/calipersjs/calipers-svg.svg?branch=master)](https://travis-ci.org/calipersjs/calipers-svg) [![Coverage Status](https://coveralls.io/repos/calipersjs/calipers-svg/badge.svg)](https://coveralls.io/r/calipersjs/calipers-svg)
+[![npm version](https://badge.fury.io/js/calipers-svg.svg)](http://badge.fury.io/js/calipers-svg) [![Build Status](https://travis-ci.org/calipersjs/calipers-svg.svg?branch=master)](https://travis-ci.org/calipersjs/calipers-svg)
 
 SVG Plugin for [Calipers](https://github.com/calipersjs/calipers).
 
